@@ -1,2 +1,2 @@
 # ECE657A
-for winter 2018 ECE657A project use
+for winter 2018 ECE657A use
